@@ -1,2 +1,2 @@
-# Circuitos-L-gicos--SD
-Testes de circuitos lógicos em VHDL
+# Circuitos-Logicos--SD
+Testes de circuitos lógicos em FPGA Cyclone II utilizando VHDL.
